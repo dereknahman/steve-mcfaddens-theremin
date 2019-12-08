@@ -1,4 +1,10 @@
 html, body {
-    background: darkmagenta;
+    background-image: url('http://img.lady-first.me/frimage/cb2d5cc1342247197e45107b00ad7235.jpg');
+    background-size: cover;
     height: 100%;
+}
+
+h1 {
+    color: white;
+    text-align: center;
 }

@@ -2,6 +2,6 @@
 
 Welcome to the wonderful world of Steve McFadden's magical theremin.
 
-Wonder as you drag his face across your screen to control pitch; marvel as his expression changes alongside.
+This was supposed to be controlled with his face but there aren't very many good license-free photos of him knocking about. I will add this one day, but for now: enjoy.
 
 Made using the Web Audio API, which unfortunately does not support Internet Explorer.
