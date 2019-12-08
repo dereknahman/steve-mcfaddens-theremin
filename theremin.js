@@ -21,7 +21,7 @@ var calculateGain = function(mouseYPosition) {
 };
 
 var drawCircle = function(x, y) {
-  circle.style.background = "#f2ed63";
+  circle.style.background = "#1bbf47";
   circle.style.display = "block";
   circle.style.left = x + "px";
   circle.style.top = y + "px";
